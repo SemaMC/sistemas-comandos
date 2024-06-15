@@ -44,5 +44,5 @@ Despues de crear estos dos objetivos, debemos de ejecutar el siguiente comando e
 
 <br>**Listo, estos son todos los comandos, el sistema deberia de funcionar bien, si tienes algun problema u error, puedes realizar lo siguiente:**
 1. Abrir un "issue" aqui en GitHub<br>
-2. Hablarme por discord: `@SemaMC`<br>
+2. Hablarme por discord: `@josemanuel567`<br>
 3. Poner un comentario en el video de YouTube<br>
